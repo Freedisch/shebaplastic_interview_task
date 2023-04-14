@@ -1,16 +1,38 @@
-# shebaplastic
 
-A new Flutter project.
+# SHEBAPLASTIC
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Recreate the two screens as shown above. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Add navigation between the two screens:
+    From the Settings page, users should be able to access the Account page by clicking on the user name, the profile icon, or the arrow button located next to the user name.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Conversely, from the Account page, users should be able to navigate back to the Settings page by using the back arrow key located on the top left corner of the page.  
+    Note that there is no need to implement any navigation or functionalities for the other links displayed on the Settings page (i.e: Language, Notifications, Dark Mode, and Help).
+
+- You should use the Flutter framework for the task,
+    Your submission should include screenshots of the screens you have worked on and source code on GitHub.
+
+
+
+
+## Installation
+
+Install this project
+
+```bash
+  git clone https://github.com/Freedisch/sheplastic
+  cd sheplastic
+  
+```
+Install the project
+
+```bash
+    flutter get pub
+    flutter run
+```
+## Demo
+
+
