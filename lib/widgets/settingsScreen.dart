@@ -45,18 +45,16 @@ class Settings extends StatelessWidget {
             children: [
               Text(
                 'Settings',
-                style: theme.textTheme.headline6?.copyWith(
-                  fontWeight: FontWeight.bold,
-                ),
+                style: theme.textTheme.headline6
+                    ?.copyWith(fontWeight: FontWeight.bold, fontSize: 50.h),
               ),
               SizedBox(
                 height: 20.h,
               ),
               Text(
                 'Account',
-                style: theme.textTheme.subtitle1?.copyWith(
-                  fontWeight: FontWeight.bold,
-                ),
+                style: theme.textTheme.subtitle1
+                    ?.copyWith(fontWeight: FontWeight.bold, fontSize: 20.h),
               ),
               SizedBox(
                 height: 10.h,
