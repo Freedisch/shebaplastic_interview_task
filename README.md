@@ -36,3 +36,8 @@ Install the project
 ## Demo
 
 
+![Screenshot 2023-04-14 160605](https://user-images.githubusercontent.com/82499435/232116919-62103ca3-06ce-424e-bf59-4bdfb7f582a3.png)
+
+
+![Screenshot 2023-04-14 163241](https://user-images.githubusercontent.com/82499435/232116892-6d473374-3161-483e-b9f4-783b235387e1.png)
+
