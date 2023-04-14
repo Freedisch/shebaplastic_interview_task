@@ -157,7 +157,7 @@ class Account extends StatelessWidget {
                     child: Icon(
                       Icons.female,
                       size: 30.sp,
-                      color: const Color(0x730E0D0D),
+                      color: Color.fromARGB(115, 240, 75, 218),
                     ),
                   ),
                 ],
